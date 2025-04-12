@@ -1,5 +1,5 @@
-# Documentation du documentation
-## initialiseation de dépot
+# Documentation 
+## initialisation de dépot
 
 ```bash
 git init
@@ -11,7 +11,13 @@ git branch -M main
 git push origin main
 git log
 git show
+git restore --staged Readme.md /*permet de restorer au précédente étape*/
+```
 
+## Rédiger un commit
+```
+Titre de commit
 
+Description de notre commit avec des informations sur l'évolution du projet
 ```
 
