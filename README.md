@@ -16,7 +16,7 @@ git restore --staged Readme.md /*permet de restorer au précédente étape*/
 
 ## Rédiger un commit
 ```
-Titre de commit
+Titre de commentaire
 
 Description de notre commit avec des informations sur l'évolution du projet
 ```
