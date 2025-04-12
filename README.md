@@ -26,3 +26,5 @@ Description de notre commit avec des informations sur l'évolution du projet
 ```bash
 git checkout -b develop
 ```
+
+Pour les bonnes pratiques on va integrer la notion de revue de code. pour cela on va créer une branche faire des modification, les envoyer sur le dépot distant, puis créer un pull request pour demander une revue de code .
