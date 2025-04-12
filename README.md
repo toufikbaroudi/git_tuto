@@ -21,3 +21,8 @@ Titre de commit
 Description de notre commit avec des informations sur l'évolution du projet
 ```
 
+## création d'une branche
+
+```bash
+git checkout -b develop
+```
